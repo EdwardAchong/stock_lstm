@@ -1,10 +1,21 @@
-# local package
--e .
+# Basics
+numpy
+pandas
+matplotlib
+seaborn
 
-# external requirements
-click
-Sphinx
-coverage
-awscli
-flake8
-python-dotenv>=0.5.1
+# Yahoo Finance
+requests
+yfinance
+
+# Delta Lake
+deltalake
+pyarrow
+delta-spark
+
+# DuckDB
+duckdb
+
+# Machine Learning
+tensorflow
+scikit-learn
